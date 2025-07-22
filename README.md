@@ -1,4 +1,4 @@
-# AI Kupci-Dobavljaci
+# AI File processing
 
 An AI-powered application for processing customer and supplier ledger cards using Azure services.
 
